@@ -1,4 +1,4 @@
-# Text_Classification-Naive_Bayes
+# Text Classification using Naive_Bayes
 
 Given a dataset of textual summary of medical queries classified into five different categories. I 
 have built my own naïve Bayes classifier to predict these categories for future queries. The task 
